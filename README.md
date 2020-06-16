@@ -1,4 +1,5 @@
-![] (download.jpeg)
+![download](https://user-images.githubusercontent.com/51785898/84765293-65c38b00-afa5-11ea-8077-d105ab740b2d.jpeg)
+
 
 ## Minha Nova jornada
 
