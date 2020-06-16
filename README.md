@@ -12,7 +12,7 @@ Checklist dos desafios concluídos
 
 Quer ver mais dessa aventura? Acesse o link do meu blog e do meu linkedin abaixo:
 
- * [Linkedin] (https://www.linkedin.com/in/marcos-henrique-1692681a0/)
- * [Blog] (http://costconsultoria.com.br/roboticaedesafios/)
+ * [Linkedin](https://www.linkedin.com/in/marcos-henrique-1692681a0/)
+ * [Blog](http://costconsultoria.com.br/roboticaedesafios/)
 
  
