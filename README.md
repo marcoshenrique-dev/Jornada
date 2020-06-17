@@ -10,6 +10,11 @@ Checklist dos desafios concluídos
 
   - [x] Desafio 1 - CALCULO DE IMC
   - [x] Desafio 2 - CALCULO DE APOSENTADORIA
+  - [x] Desafio 3 - EMPRESAS
+  - [x] Desafio 4 - Usuário e techs
+  - [x] Desafio 5 - Usuários e tecnologias - BUSCA
+  - [x] Desafio 6 - Busca por uma determinada Tecnologia
+  - [x] Desafio 7 - Soma de despesas e receitas
 
 Quer ver mais dessa aventura? Acesse o link do meu blog e do meu linkedin abaixo:
 
