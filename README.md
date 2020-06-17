@@ -15,6 +15,7 @@ Checklist dos desafios concluídos
   - [x] Desafio 5 - Usuários e tecnologias - BUSCA
   - [x] Desafio 6 - Busca por uma determinada Tecnologia
   - [x] Desafio 7 - Soma de despesas e receitas
+  - [x] Desafio 8 - Operações Bancárias
 
 Quer ver mais dessa aventura? Acesse o link do meu blog e o meu linkedin abaixo:
 
