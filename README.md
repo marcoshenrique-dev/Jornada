@@ -16,7 +16,7 @@ Checklist dos desafios concluídos
   - [x] Desafio 6 - Busca por uma determinada Tecnologia
   - [x] Desafio 7 - Soma de despesas e receitas
 
-Quer ver mais dessa aventura? Acesse o link do meu blog e do meu linkedin abaixo:
+Quer ver mais dessa aventura? Acesse o link do meu blog e o meu linkedin abaixo:
 
  * [Linkedin](https://www.linkedin.com/in/marcos-henrique-1692681a0/)
  * [Blog](http://costconsultoria.com.br/roboticaedesafios/)
