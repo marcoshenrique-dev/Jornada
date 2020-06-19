@@ -11,6 +11,8 @@
 
 Checklist dos desafios concluídos
 
+    Módulo 1 - Programação
+
   - [x] Desafio 1 - CALCULO DE IMC
   - [x] Desafio 2 - CALCULO DE APOSENTADORIA
   - [x] Desafio 3 - EMPRESAS
@@ -19,6 +21,10 @@ Checklist dos desafios concluídos
   - [x] Desafio 6 - Busca por uma determinada Tecnologia
   - [x] Desafio 7 - Soma de despesas e receitas
   - [x] Desafio 8 - Operações Bancárias
+  
+  Módulo 2 - Introdução a Web
+  
+  - [x] Desafio 1 - Menu com html e css
 
 Quer ver mais dessa aventura? Acesse o link do meu blog e o meu linkedin abaixo:
 
