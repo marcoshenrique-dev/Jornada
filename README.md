@@ -21,11 +21,11 @@ Checklist dos desafios concluídos
   - [x] Desafio 6 - Busca por uma determinada Tecnologia
   - [x] Desafio 7 - Soma de despesas e receitas
   - [x] Desafio 8 - Operações Bancárias
-  - [x] Desafio 9 - Página sobre - Rocktseat
   
   Módulo 2 - Introdução a Web
   
   - [x] Desafio 1 - Menu com html e css
+    - [x] Desafio 2 - Página sobre - Rocktseat
 
 Quer ver mais dessa aventura? Acesse o link do meu blog e o meu linkedin abaixo:
 
