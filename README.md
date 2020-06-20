@@ -21,6 +21,7 @@ Checklist dos desafios concluídos
   - [x] Desafio 6 - Busca por uma determinada Tecnologia
   - [x] Desafio 7 - Soma de despesas e receitas
   - [x] Desafio 8 - Operações Bancárias
+  - [x] Desafio 9 - Página sobre - Rocktseat
   
   Módulo 2 - Introdução a Web
   
@@ -30,5 +31,11 @@ Quer ver mais dessa aventura? Acesse o link do meu blog e o meu linkedin abaixo:
 
  * [Linkedin](https://www.linkedin.com/in/marcos-henrique-1692681a0/)
  * [Blog](http://costconsultoria.com.br/roboticaedesafios/)
+ 
+ ### Imagens do desafio 2-2 e página sobre:
+ 
+ ![Peek 2020-06-20 20-26](https://user-images.githubusercontent.com/51785898/85213485-796c4a00-b335-11ea-90d9-3e3bf48560f1.gif)
+![Peek 2020-06-20 20-25](https://user-images.githubusercontent.com/51785898/85213487-7d986780-b335-11ea-82c5-82e76535c87f.gif)
+
 
  
