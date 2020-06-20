@@ -25,7 +25,7 @@ Checklist dos desafios concluídos
   Módulo 2 - Introdução a Web
   
   - [x] Desafio 1 - Menu com html e css
-    - [x] Desafio 2 - Página sobre - Rocktseat
+  - [x] Desafio 2 - Página sobre - Rocktseat
 
 Quer ver mais dessa aventura? Acesse o link do meu blog e o meu linkedin abaixo:
 
