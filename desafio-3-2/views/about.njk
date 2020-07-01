@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<div id="wrapper">
+  <img src="{{data.avatar_url}}" alt="Marcos Henrique">
+  <h1>{{data.name}}</h1>
+  <h2>{{data.role}}</h2>
+  <p>{{data.description}}</p>
+</div>
+
+<div id="links-footer" class="links">
+
+    {% for item in data.links %}
+
+  <a target="_blank" href={{item.url}}">{{item.name}}</a>
+  
+    { % endfor %}
+
+</div>
+
+
+{% endblock %}
