@@ -26,6 +26,11 @@ Checklist dos desafios concluídos
   
   - [x] Desafio 1 - Menu com html e css
   - [x] Desafio 2 - Página sobre - Rocktseat
+  
+  Módulo 3 - Introdução ao back-end
+  
+  - [x] Desafio 1 - Página not-found
+  - [x] Desafio 2 - Adicionando nunjucks a página sobre e portifólio
 
 Quer ver mais dessa aventura? Acesse o link do meu blog e o meu linkedin abaixo:
 
